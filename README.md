@@ -4,9 +4,10 @@
 A simple, interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This project demonstrates fundamental front-end web development skills.
 
 ## How to Play
-1. Click on one of the buttons: Rock, Paper, or Scissors.
-2. The computer will randomly select its choice.
-3. The result of the game will be displayed below the buttons, showing whether you won, lost, or if it's a tie.
+1. Click on the link provided :https://github.com/DFox1997/Rock-paper-scissors-Code-/settings/pages
+2. Click on one of the buttons: Rock, Paper, or Scissors.
+3. The computer will randomly select its choice.
+4. The result of the game will be displayed below the buttons, showing whether you won, lost, or if it's a tie.
 
 ## Files Included
 - `index.html`: The structure of the game.
